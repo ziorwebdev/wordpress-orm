@@ -1,4 +1,4 @@
-# WORM (Wordpress ORM)
+# Fork from WORM (Wordpress ORM) to support PHP 8.0+
 
 *Under active development*
 
@@ -31,7 +31,7 @@ master branch = active development
 ## Installation
 
 ```
-composer require rjjakes/wordpress-orm
+composer require ziorwebdev/wordpress-orm
 ```
 
 ## Usage
