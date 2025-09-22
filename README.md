@@ -31,7 +31,7 @@ master branch = active development
 ## Installation
 
 ```
-composer require ziorwebdev/wordpress-orm:dev-main
+composer require ziorwebdev/wordpress-orm:dev-master
 ```
 
 ## Usage
