@@ -1,5 +1,5 @@
 {
-  "name": "rjjakes/wordpress-orm",
+  "name": "ziorwebdev/wordpress-orm",
   "description": "WORM. Doctrine style ORM for Wordpress.",
   "keywords": [
     "wordpress",
@@ -9,7 +9,7 @@
     "composer",
     "sql"
   ],
-  "homepage": "https://github.com/rjjakes/wordpress-orm",
+  "homepage": "https://github.com/ziorwebdev/wordpress-orm",
   "require": {
     "php": ">=5.5",
     "doctrine/annotations": "^2.0"
